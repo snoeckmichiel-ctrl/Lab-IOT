@@ -1,0 +1,12 @@
+{
+    "name": "LabIoT",
+    "description": "koppeling met s7-1200 Siemens",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flowsLabIoT.json",
+            "credentialsFile": "flowsLabIoT_cred.json"
+        }
+    }
+}
